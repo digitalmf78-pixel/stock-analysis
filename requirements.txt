@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+dalal
+pandas_ta_classic
+yfinance
+transformers
+torch
+plotly
